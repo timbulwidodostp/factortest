@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'DEA': Tests for appropriateness of factor analysis For the Bartlett's test for sphericity and the Kaiser-Meyer-Olkin Measure of Sampling Adequacy Use factortest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f factortest.ado
+f factortest.hlp
