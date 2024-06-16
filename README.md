@@ -1,6 +1,8 @@
 # factortest
 Tests for appropriateness of factor analysis For the Bartlett's test for sphericity and the Kaiser-Meyer-Olkin Measure of Sampling Adequacy Use factortest With STATA 18
 
+https://www.youtube.com/watch?v=S-NaK3rAoog
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
